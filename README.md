@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SanusiWasiu
-- 👀 I’m interested in Software Development oppurtunities
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on building website with the MERN stack
+- 👀 I’m interested in Software Development oppurtunities (Automation Engineer, Software QA Engineer, SDET)
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: was.sanusi@gmail.com
 
 <!---
